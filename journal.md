@@ -5,7 +5,7 @@ description: "Versatile Filament Spool Storage with Active Temperature Control"
 created_at: "6-2-2025"
 ---
 
-## Log 1: Idea Generation
+## 6/2/205 Log 1: Idea Generation
 
 I started this project by defining my goals and generating some ideas to start the CAD off of.
 
@@ -30,3 +30,22 @@ Another option is to seperate the filament drybox system into its own seperate b
 After deliberating, I will be going to explore the second option as it seems more viable as an option. I have not decided whether or not I will try to add an MMU system yet, but I am currently leaning towards not going for it as Hydra already has the capability to use 5 different filaments. It is still on the table for now though. 
 
 Time Spent: 1 Hour
+
+## 6/3/2025 Log 2: Starting Some Sketching and Defining My Goals
+
+I first went into this with the idea of having support for both 3kg and 1kg spools. I also knew I wanted the capability to hold 5 1kg spools to support Hydra. I started with a sketch that satisfied these requirements. 
+
+![image](https://github.com/user-attachments/assets/8658ea86-acf1-4d56-8184-2e6cd7a57612)
+
+After looking at the immense size this would take up, along with realizing that I have personally never used a 3kg spool, I decided to abandon support for the 3kg spool in the interest of space. 
+
+![image](https://github.com/user-attachments/assets/6fad9689-39d5-4ea0-80ec-39b3e0158cab)
+
+![image](https://github.com/user-attachments/assets/6cbac757-c785-420b-ab20-8a94689cd2ba)
+
+This cut down on the space by a few inches in all dimensions, greatly decreasing the footprint. 
+
+My next steps are to start modeling the frame and find some good rollers for the spools to ride on. 
+
+Time Spent: 1 Hour
+
