@@ -49,3 +49,48 @@ My next steps are to start modeling the frame and find some good rollers for the
 
 Time Spent: 1 Hour
 
+## 6/5/2025 Log 3: Starting CAD
+
+![image](https://github.com/user-attachments/assets/5d9c8a02-4d4a-4d9a-a09f-b0b874dd597f)
+
+I started the CAD for this system. I first made the 2020 frame that used these special corner blocks to create a strong joint between the corners. This is different from the corners on Hydra, but since this system is smaller, it doesn't need to be as strong and thus these would work. 
+
+![image](https://github.com/user-attachments/assets/50be3d11-c880-43ab-93e1-5491bc759a64)
+
+Next, I created the panels that would enclose the system. Since this system needs to be sealed, these panels go edge to edge to ensure that the system is fully sealed and thus moisture cannot enter. 
+
+![image](https://github.com/user-attachments/assets/8e8139d0-9012-4ce7-adf4-b0901c0fbbaf)
+
+Finally, I created the corner blocks. These not only better secure the corners, but they add a unique function of this system: stackability. 
+
+![image](https://github.com/user-attachments/assets/16fe3c5f-1bc6-4fbc-8407-a8b2986127fb)
+
+Through a mirrored, layered design, it is possible to stack multiple of these systems on each other. I will be keeping this part of the design in mind as I create the other parts of the system to ensure it stays stackable. 
+
+Time Spent: 6 Hours
+
+## 6/9/2025 Log 4: Roller System and Adding Color
+
+![image](https://github.com/user-attachments/assets/ec11b834-8c18-4474-b8a7-d362b68ef0fb)
+
+Obviously, from this screenshot, a lot has changed. First, I added the same color scheme as Hydra for it to match. Then, I worked on the roller system. 
+
+Utilizing an 8mm diameter shaft along with some bearings, this made up the base of my roller system. 
+
+![image](https://github.com/user-attachments/assets/3461575e-d592-462f-9147-7316a84e2c2d)
+
+![image](https://github.com/user-attachments/assets/b1c7b740-bd20-4584-bf19-672012e5d484)
+
+Using a custom 3D Printed roller over a set of roller bearings, I can create a roller that allows the spools to spin freely without binding while also keeping the spool constrained where it is so it doesn't walk off. Unlike systems like the Bambu Lab AMS, there is no physical divider between the spools, just this custom roller keeping them in place. 
+
+![image](https://github.com/user-attachments/assets/369b418b-9a62-486b-9de4-991a9fdc9185)
+
+Through some nifty 3d printed parts, the shaft runs all the way across and supports all 5 spools. Additionally, through another set of printed parts I successfully sealed off the active heating from the passive heating. 
+
+![image](https://github.com/user-attachments/assets/0b94925c-7436-4ade-8a16-d45bf9874862)
+
+This panel, combined with some liquid silicone will seal the active heating off. Additionally, I will use said silicone to seal off any other gaps in order to keep the entire system sealed. 
+
+Next Steps: Electronics, Venting, and a place to store the silica packets. 
+
+Time Spent: 5 Hours
