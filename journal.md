@@ -94,3 +94,13 @@ This panel, combined with some liquid silicone will seal the active heating off.
 Next Steps: Electronics, Venting, and a place to store the silica packets. 
 
 Time Spent: 5 Hours
+
+## 6/11/2025 Log 5: Wiring
+
+I decided to do the next step: electronics. After extensive, extensive research I got this: 
+
+![image](https://github.com/user-attachments/assets/18dc0bc9-86a7-4eaf-bf35-da9f3407c855)
+
+I am using an AC ceramic PTC heater to heat the heated chamber. I am also using a 35W 5V power supply that will allow me to power my controller, most likely a Pi 0 2W. Additionally, I have an SSR to control the power going to the ceramic heater. I will also use the controller to control when the chamber gets heated, along with giving me crucial information - such as the humidity of the system. 
+
+Time Spent: 3 Hours
