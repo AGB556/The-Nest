@@ -104,3 +104,11 @@ I decided to do the next step: electronics. After extensive, extensive research 
 I am using an AC ceramic PTC heater to heat the heated chamber. I am also using a 35W 5V power supply that will allow me to power my controller, most likely a Pi 0 2W. Additionally, I have an SSR to control the power going to the ceramic heater. I will also use the controller to control when the chamber gets heated, along with giving me crucial information - such as the humidity of the system. 
 
 Time Spent: 3 Hours
+
+## 6/12/2025 Log 6: Almost Done
+
+![image](https://github.com/user-attachments/assets/696d8efb-b3a0-452f-9f65-ad3f276f1c93)
+
+I spent a small amount of time today adding in the fused inlet. Final thing to do is the silica gel holders and the doors and I am done. 
+
+Time Spent: 30 Minutes
