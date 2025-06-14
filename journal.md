@@ -112,3 +112,13 @@ Time Spent: 3 Hours
 I spent a small amount of time today adding in the fused inlet. Final thing to do is the silica gel holders and the doors and I am done. 
 
 Time Spent: 30 Minutes
+
+## 6/13/2025 Log 7: Sensor and Screen
+
+I spent some time figuring out what screen and sensor I wanted to use, after which I put them into the CAD. The sensor will allow me to know what the temperature and humidity of the system will be, while the screen will allow me to control the system.
+
+![image](https://github.com/user-attachments/assets/ccffced9-4128-484d-97f0-6274867c03d0)
+
+I just have to figure out how I am doing the front doors, after which I believe I am done. 
+
+Time Spent: 1.5 Hours
