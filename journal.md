@@ -5,6 +5,8 @@ description: "Versatile Filament Spool Storage with Active Temperature Control"
 created_at: "6-2-2025"
 ---
 
+Total Time Spent: 28 Hours
+
 ## 6/2/205 Log 1: Idea Generation
 
 I started this project by defining my goals and generating some ideas to start the CAD off of.
@@ -47,7 +49,7 @@ This cut down on the space by a few inches in all dimensions, greatly decreasing
 
 My next steps are to start modeling the frame and find some good rollers for the spools to ride on. 
 
-Time Spent: 1 Hour
+Time Spent: 1.5 Hour
 
 ## 6/5/2025 Log 3: Starting CAD
 
@@ -67,7 +69,7 @@ Finally, I created the corner blocks. These not only better secure the corners, 
 
 Through a mirrored, layered design, it is possible to stack multiple of these systems on each other. I will be keeping this part of the design in mind as I create the other parts of the system to ensure it stays stackable. 
 
-Time Spent: 6 Hours
+Time Spent: 6.5 Hours
 
 ## 6/9/2025 Log 4: Roller System and Adding Color
 
@@ -93,7 +95,7 @@ This panel, combined with some liquid silicone will seal the active heating off.
 
 Next Steps: Electronics, Venting, and a place to store the silica packets. 
 
-Time Spent: 5 Hours
+Time Spent: 5.5 Hours
 
 ## 6/11/2025 Log 5: Wiring
 
@@ -121,4 +123,16 @@ I spent some time figuring out what screen and sensor I wanted to use, after whi
 
 I just have to figure out how I am doing the front doors, after which I believe I am done. 
 
-Time Spent: 1.5 Hours
+Time Spent: 2 Hours
+
+## 6/15/2025 Log 7: Doors! Finally!
+
+![image](https://github.com/user-attachments/assets/2ef9055d-c8e7-46e5-a2e4-f98a03ef55d7)
+
+I decided to use a gasket sealing tape like [this](https://www.amazon.com/Frost-King-R734H-Sponge-Rubber/dp/B000BQWWF4?crid=1D80KEYQZYFL0&dib=eyJ2IjoiMSJ9.7Rkj69G2fHceRJ7jjl61apGrT-A6o6k0OrctL8sxLlTQOcWf3_lJsEPm9X1-suWQniuu0oC5ps_Q9cI413ym1mWteZnjWixh07DJOnLhR-w0ClCAGNCQJps0yZ1uk2SVjAdt9Xio7yu8fGbQed3_b9-OcdWfGO_GLKZJDUzu4qvVHQjKrEvDKht1DVHDWdJxFRqKKPfzOd_in4G6XvqsBVE-7R6tYX3RdyY8sXTLV3fTUEb-qT9S2zSp6YGlBd6Zv6nPap-WLCOoVV2E86yNI-Z_A9-5HfxqLH7w8gnIx3g.29bXTPl1r7yZlH6CzJnNph30QZI5mxy9kII5ceC3Dws&dib_tag=se&keywords=edpm%2Bfoam%2Btape&qid=1750051417&sprefix=edpm%2Bfoam%2Btap%2Caps%2C129&sr=8-6&th=1) along with some nifty clips in order to create an airtight seal. By compressing the foam, it creates a seal, leaving moisture unable to enter. These clips are reminicent of the AMS system. 
+
+![image](https://github.com/user-attachments/assets/d6681774-339f-4793-81fe-53e80935ff40)
+
+With this, I am officially done! 
+
+Time Spent: 2 Hours
