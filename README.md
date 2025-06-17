@@ -1,6 +1,13 @@
 # The Nest
 Versatile Filament Spool Storage with Active Temperature Control
 
+Following up with [Hydra](https://github.com/AGB556/Hydra), I realized there was no good option for filament storage. Additionally, I have always been interested in the idea of a filament dryer, as I currently have no way to store my filament effectively. With a complicated system such as Hydra, I wanted an all in one system that would work well for this. Thus, "The Nest" was born. 
+
+![image](https://github.com/user-attachments/assets/4a41943f-317f-42b9-97be-733909893ae0)
+
+[Onshape Link](https://cad.onshape.com/documents/02660058b8b8da43b01b6c8b/w/3831e57841383fbeb53cc6b1/e/997986ce09d00906baf25972)
+
+[BOM](https://docs.google.com/spreadsheets/d/1dxXwSJXcaqQSJZOgLCcOFMtPYZC8gTVC_DopSeNoC-k/edit?gid=0#gid=0)
 
 | ITEM                  | PRICE     | QUANTITY | TOTAL PRICE | SOURCE     | Ordered | BOUGHT/OWNED? | LINK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-----------------------|-----------|----------|-------------|------------|---------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
