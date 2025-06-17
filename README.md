@@ -5,6 +5,8 @@ Following up with [Hydra](https://github.com/AGB556/Hydra), I realized there was
 
 ![image](https://github.com/user-attachments/assets/4a41943f-317f-42b9-97be-733909893ae0)
 
+![image](https://github.com/user-attachments/assets/e7f85be2-be57-4f32-9d26-c763ee57691c)
+
 [Onshape Link](https://cad.onshape.com/documents/02660058b8b8da43b01b6c8b/w/3831e57841383fbeb53cc6b1/e/997986ce09d00906baf25972)
 
 [BOM](https://docs.google.com/spreadsheets/d/1dxXwSJXcaqQSJZOgLCcOFMtPYZC8gTVC_DopSeNoC-k/edit?gid=0#gid=0)
